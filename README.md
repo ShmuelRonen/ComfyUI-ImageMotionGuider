@@ -2,6 +2,10 @@
 
 A custom ComfyUI node designed to create seamless motion effects from single images by integrating with Hunyuan Video through latent space manipulation.
 
+
+https://github.com/user-attachments/assets/e6c770ed-f767-4beb-ae02-c61e9b8cfa5a
+
+
 ## Overview
 
 The ComfyUI-ImageMotionGuider node creates smooth motion sequences from static images through intelligent mirroring techniques. Its primary purpose is to influence AI video generation models' behavior through latent space guidance, particularly designed for Hunyuan Video integration.
