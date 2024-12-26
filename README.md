@@ -2,6 +2,8 @@
 
 A custom ComfyUI node designed to create seamless motion effects from single images by integrating with Hunyuan Video through latent space manipulation.
 
+![image](https://github.com/user-attachments/assets/c62be207-2eb3-4d85-a3b2-d8542c050c6f)
+
 
 https://github.com/user-attachments/assets/e6c770ed-f767-4beb-ae02-c61e9b8cfa5a
 
