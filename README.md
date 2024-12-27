@@ -14,6 +14,10 @@ The ComfyUI-ImageMotionGuider node creates smooth motion sequences from static i
 
 ## Installation
 
+Install from Custom Node Manager
+
+or
+
 ```bash
 cd ComfyUI/custom_nodes
 git clone https://github.com/ShmuelRonen/ComfyUI-ImageMotionGuider.git
