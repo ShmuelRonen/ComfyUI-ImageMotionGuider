@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-imagemotionguider"
+description = "A custom ComfyUI node designed to create seamless motion effects from single images by integrating with Hunyuan Video through latent space manipulation."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/ShmuelRonen/ComfyUI-ImageMotionGuider"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-ImageMotionGuider"
+Icon = ""
